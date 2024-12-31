@@ -1,6 +1,7 @@
 # superjaded's kitty config
 
-Fork of an existing setup with some changes to be more in line with how I'm using kitty.
+Fork of an existing setup with some changes to be more in line with how I'm using kitty. The original config
+was meant to be used with tmux. For me, I'm relegating my tmux usage just when I'm doing stuff remotely.
 
 Original content of readme below.
 
