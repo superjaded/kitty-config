@@ -1,3 +1,10 @@
+# superjaded's kitty config
+
+Fork of an existing setup with some changes to be more in line with how I'm using kitty.
+
+Original content of readme below.
+
+
 # my-kitty-config
 
 the kitty config for tmux users
